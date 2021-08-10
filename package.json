@@ -1,0 +1,31 @@
+{
+  "name": "wip-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "dropbox": "4.0.9",
+    "es6-promise": "4.2.4",
+    "express": "4.16.3",
+    "ffmpeg": "0.0.4",
+    "firebase-admin": "6.0.0",
+    "fluent-ffmpeg": "2.1.2",
+    "isomorphic-fetch": "2.2.1",
+    "jimp": "0.5.6",
+    "rimraf": "2.6.2",
+    "unzip": "0.1.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nacho3627@bitbucket.org/thunder-code/wip-server.git"
+  },
+  "author": "ThunderCode",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/thunder-code/wip-server#readme"
+}
